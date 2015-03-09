@@ -1,0 +1,13 @@
+/Users/pauloortins/Projects/CheckboxTesting/CheckboxTesting/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/pauloortins/Projects/CheckboxTesting/CheckboxTesting/bin/Debug/CheckboxTesting.dll.mdb
+/Users/pauloortins/Projects/CheckboxTesting/CheckboxTesting/bin/Debug/CheckboxTesting.dll
+/Users/pauloortins/Projects/CheckboxTesting/CheckboxTesting/obj/Debug/CheckboxTesting.dll
+/Users/pauloortins/Projects/CheckboxTesting/CheckboxTesting/obj/Debug/CheckboxTesting.dll.mdb
+/Users/pauloortins/Projects/CheckboxTesting/CheckboxTesting/bin/Debug/Xamarin.Forms.Core.dll
+/Users/pauloortins/Projects/CheckboxTesting/CheckboxTesting/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/pauloortins/Projects/CheckboxTesting/CheckboxTesting/bin/Debug/ExifLib.dll
+/Users/pauloortins/Projects/CheckboxTesting/CheckboxTesting/bin/Debug/XLabs.Core.dll
+/Users/pauloortins/Projects/CheckboxTesting/CheckboxTesting/bin/Debug/XLabs.Platform.dll
+/Users/pauloortins/Projects/CheckboxTesting/CheckboxTesting/bin/Debug/XLabs.Ioc.dll
+/Users/pauloortins/Projects/CheckboxTesting/CheckboxTesting/bin/Debug/XLabs.Serialization.dll
+/Users/pauloortins/Projects/CheckboxTesting/CheckboxTesting/bin/Debug/XLabs.Forms.dll

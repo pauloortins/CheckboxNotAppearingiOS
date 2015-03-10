@@ -8,7 +8,7 @@
 	--executable \
 	CheckboxTesting.iOS \
 	--debug \
-	--nolink \
+	--linksdkonly \
 	--sdkroot \
 	/Applications/Xcode.app/Contents/Developer \
 	--sdk \
@@ -23,27 +23,27 @@
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
 	-r \
-	../packages/Xamarin.Forms.1.3.5.6337/lib/Xamarin.iOS10/Xamarin.Forms.Platform.iOS.dll \
-	-r \
-	../packages/Xamarin.Forms.1.3.5.6337/lib/Xamarin.iOS10/Xamarin.Forms.Core.dll \
-	-r \
-	../packages/Xamarin.Forms.1.3.5.6337/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll \
-	-r \
-	../packages/XLabs.IoC.2.0.5540/lib/portable-net45+netcore45+wp8+MonoAndroid1+MonoTouch1/XLabs.Ioc.dll \
-	-r \
 	../packages/ExifLib.PCL.1.0.0/lib/portable-net45+sl50+win+WindowsPhoneApp81+wp80+MonoAndroid10+MonoTouch10/ExifLib.dll \
 	-r \
-	../packages/XLabs.Core.2.0.5540/lib/portable-net45+netcore45+wp8+MonoAndroid1+MonoTouch1/XLabs.Core.dll \
+	../packages/Xamarin.Forms.1.4.0.6341/lib/Xamarin.iOS10/Xamarin.Forms.Platform.iOS.dll \
 	-r \
-	../packages/XLabs.Platform.2.0.5540/lib/Xamarin.iOS10/XLabs.Platform.iOS.dll \
+	../packages/Xamarin.Forms.1.4.0.6341/lib/Xamarin.iOS10/Xamarin.Forms.Core.dll \
 	-r \
-	../packages/XLabs.Platform.2.0.5540/lib/Xamarin.iOS10/XLabs.Platform.dll \
+	../packages/Xamarin.Forms.1.4.0.6341/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll \
 	-r \
-	../packages/XLabs.Serialization.2.0.5540/lib/portable-net45+netcore45+wp8+MonoAndroid1+MonoTouch1/XLabs.Serialization.dll \
+	../packages/XLabs.IoC.2.0.5546.35667/lib/portable-net45+netcore45+wp8+MonoAndroid1+MonoTouch1/XLabs.Ioc.dll \
 	-r \
-	../packages/XLabs.Forms.2.0.5540/lib/Xamarin.iOS10/XLabs.Forms.iOS.dll \
+	../packages/XLabs.Core.2.0.5546.35667/lib/portable-net45+netcore45+wp8+MonoAndroid1+MonoTouch1/XLabs.Core.dll \
 	-r \
-	../packages/XLabs.Forms.2.0.5540/lib/Xamarin.iOS10/XLabs.Forms.dll \
+	../packages/XLabs.Platform.2.0.5546.35667/lib/Xamarin.iOS10/XLabs.Platform.iOS.dll \
+	-r \
+	../packages/XLabs.Platform.2.0.5546.35667/lib/Xamarin.iOS10/XLabs.Platform.dll \
+	-r \
+	../packages/XLabs.Serialization.2.0.5546.35667/lib/portable-net45+netcore45+wp8+MonoAndroid1+MonoTouch1/XLabs.Serialization.dll \
+	-r \
+	../packages/XLabs.Forms.2.0.5546.35667/lib/Xamarin.iOS10/XLabs.Forms.iOS.dll \
+	-r \
+	../packages/XLabs.Forms.2.0.5546.35667/lib/Xamarin.iOS10/XLabs.Forms.dll \
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
 	-r \
@@ -137,27 +137,27 @@
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/System.Xml.XmlSerializer.dll \
 	-r \
-	../packages/Xamarin.Forms.1.3.5.6337/lib/Xamarin.iOS10/Xamarin.Forms.Platform.iOS.dll \
-	-r \
-	../packages/Xamarin.Forms.1.3.5.6337/lib/Xamarin.iOS10/Xamarin.Forms.Core.dll \
-	-r \
-	../packages/Xamarin.Forms.1.3.5.6337/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll \
-	-r \
-	../packages/XLabs.IoC.2.0.5540/lib/portable-net45+netcore45+wp8+MonoAndroid1+MonoTouch1/XLabs.Ioc.dll \
-	-r \
 	../packages/ExifLib.PCL.1.0.0/lib/portable-net45+sl50+win+WindowsPhoneApp81+wp80+MonoAndroid10+MonoTouch10/ExifLib.dll \
 	-r \
-	../packages/XLabs.Core.2.0.5540/lib/portable-net45+netcore45+wp8+MonoAndroid1+MonoTouch1/XLabs.Core.dll \
+	../packages/Xamarin.Forms.1.4.0.6341/lib/Xamarin.iOS10/Xamarin.Forms.Platform.iOS.dll \
 	-r \
-	../packages/XLabs.Platform.2.0.5540/lib/Xamarin.iOS10/XLabs.Platform.iOS.dll \
+	../packages/Xamarin.Forms.1.4.0.6341/lib/Xamarin.iOS10/Xamarin.Forms.Core.dll \
 	-r \
-	../packages/XLabs.Platform.2.0.5540/lib/Xamarin.iOS10/XLabs.Platform.dll \
+	../packages/Xamarin.Forms.1.4.0.6341/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll \
 	-r \
-	../packages/XLabs.Serialization.2.0.5540/lib/portable-net45+netcore45+wp8+MonoAndroid1+MonoTouch1/XLabs.Serialization.dll \
+	../packages/XLabs.IoC.2.0.5546.35667/lib/portable-net45+netcore45+wp8+MonoAndroid1+MonoTouch1/XLabs.Ioc.dll \
 	-r \
-	../packages/XLabs.Forms.2.0.5540/lib/Xamarin.iOS10/XLabs.Forms.iOS.dll \
+	../packages/XLabs.Core.2.0.5546.35667/lib/portable-net45+netcore45+wp8+MonoAndroid1+MonoTouch1/XLabs.Core.dll \
 	-r \
-	../packages/XLabs.Forms.2.0.5540/lib/Xamarin.iOS10/XLabs.Forms.dll \
+	../packages/XLabs.Platform.2.0.5546.35667/lib/Xamarin.iOS10/XLabs.Platform.iOS.dll \
+	-r \
+	../packages/XLabs.Platform.2.0.5546.35667/lib/Xamarin.iOS10/XLabs.Platform.dll \
+	-r \
+	../packages/XLabs.Serialization.2.0.5546.35667/lib/portable-net45+netcore45+wp8+MonoAndroid1+MonoTouch1/XLabs.Serialization.dll \
+	-r \
+	../packages/XLabs.Forms.2.0.5546.35667/lib/Xamarin.iOS10/XLabs.Forms.iOS.dll \
+	-r \
+	../packages/XLabs.Forms.2.0.5546.35667/lib/Xamarin.iOS10/XLabs.Forms.dll \
 	-r \
 	/Users/pauloortins/Projects/CheckboxTesting/CheckboxTesting/bin/Debug//CheckboxTesting.dll \
 	/Users/pauloortins/Projects/CheckboxTesting/iOS/bin/iPhoneSimulator/Debug//CheckboxTesting.iOS.exe \

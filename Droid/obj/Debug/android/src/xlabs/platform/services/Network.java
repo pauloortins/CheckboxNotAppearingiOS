@@ -11,7 +11,7 @@ public class Network
 		__md_methods = 
 			"n_onReceive:(Landroid/content/Context;Landroid/content/Intent;)V:GetOnReceive_Landroid_content_Context_Landroid_content_Intent_Handler\n" +
 			"";
-		mono.android.Runtime.register ("XLabs.Platform.Services.Network, XLabs.Platform.Droid, Version=2.0.5540.29611, Culture=neutral, PublicKeyToken=null", Network.class, __md_methods);
+		mono.android.Runtime.register ("XLabs.Platform.Services.Network, XLabs.Platform.Droid, Version=2.0.5546.18614, Culture=neutral, PublicKeyToken=null", Network.class, __md_methods);
 	}
 
 
@@ -19,7 +19,7 @@ public class Network
 	{
 		super ();
 		if (getClass () == Network.class)
-			mono.android.TypeManager.Activate ("XLabs.Platform.Services.Network, XLabs.Platform.Droid, Version=2.0.5540.29611, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
+			mono.android.TypeManager.Activate ("XLabs.Platform.Services.Network, XLabs.Platform.Droid, Version=2.0.5546.18614, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
 	}
 
 

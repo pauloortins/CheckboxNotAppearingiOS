@@ -10,7 +10,7 @@ public abstract class BroadcastMonitor
 	static {
 		__md_methods = 
 			"";
-		mono.android.Runtime.register ("XLabs.Platform.Device.BroadcastMonitor, XLabs.Platform.Droid, Version=2.0.5540.29611, Culture=neutral, PublicKeyToken=null", BroadcastMonitor.class, __md_methods);
+		mono.android.Runtime.register ("XLabs.Platform.Device.BroadcastMonitor, XLabs.Platform.Droid, Version=2.0.5546.18614, Culture=neutral, PublicKeyToken=null", BroadcastMonitor.class, __md_methods);
 	}
 
 
@@ -18,7 +18,7 @@ public abstract class BroadcastMonitor
 	{
 		super ();
 		if (getClass () == BroadcastMonitor.class)
-			mono.android.TypeManager.Activate ("XLabs.Platform.Device.BroadcastMonitor, XLabs.Platform.Droid, Version=2.0.5540.29611, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
+			mono.android.TypeManager.Activate ("XLabs.Platform.Device.BroadcastMonitor, XLabs.Platform.Droid, Version=2.0.5546.18614, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
 	}
 
 	java.util.ArrayList refList;

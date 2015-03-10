@@ -12,7 +12,7 @@ public class HybridWebViewRenderer_ChromeClient
 			"n_onJsAlert:(Landroid/webkit/WebView;Ljava/lang/String;Ljava/lang/String;Landroid/webkit/JsResult;)Z:GetOnJsAlert_Landroid_webkit_WebView_Ljava_lang_String_Ljava_lang_String_Landroid_webkit_JsResult_Handler\n" +
 			"n_onGeolocationPermissionsShowPrompt:(Ljava/lang/String;Landroid/webkit/GeolocationPermissions$Callback;)V:GetOnGeolocationPermissionsShowPrompt_Ljava_lang_String_Landroid_webkit_GeolocationPermissions_Callback_Handler\n" +
 			"";
-		mono.android.Runtime.register ("XLabs.Forms.Controls.HybridWebViewRenderer/ChromeClient, XLabs.Forms.Droid, Version=2.0.5540.29614, Culture=neutral, PublicKeyToken=null", HybridWebViewRenderer_ChromeClient.class, __md_methods);
+		mono.android.Runtime.register ("XLabs.Forms.Controls.HybridWebViewRenderer/ChromeClient, XLabs.Forms.Droid, Version=2.0.5546.18615, Culture=neutral, PublicKeyToken=null", HybridWebViewRenderer_ChromeClient.class, __md_methods);
 	}
 
 
@@ -20,14 +20,14 @@ public class HybridWebViewRenderer_ChromeClient
 	{
 		super ();
 		if (getClass () == HybridWebViewRenderer_ChromeClient.class)
-			mono.android.TypeManager.Activate ("XLabs.Forms.Controls.HybridWebViewRenderer/ChromeClient, XLabs.Forms.Droid, Version=2.0.5540.29614, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
+			mono.android.TypeManager.Activate ("XLabs.Forms.Controls.HybridWebViewRenderer/ChromeClient, XLabs.Forms.Droid, Version=2.0.5546.18615, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
 	}
 
 	public HybridWebViewRenderer_ChromeClient (xlabs.forms.controls.HybridWebViewRenderer p0) throws java.lang.Throwable
 	{
 		super ();
 		if (getClass () == HybridWebViewRenderer_ChromeClient.class)
-			mono.android.TypeManager.Activate ("XLabs.Forms.Controls.HybridWebViewRenderer/ChromeClient, XLabs.Forms.Droid, Version=2.0.5540.29614, Culture=neutral, PublicKeyToken=null", "XLabs.Forms.Controls.HybridWebViewRenderer, XLabs.Forms.Droid, Version=2.0.5540.29614, Culture=neutral, PublicKeyToken=null", this, new java.lang.Object[] { p0 });
+			mono.android.TypeManager.Activate ("XLabs.Forms.Controls.HybridWebViewRenderer/ChromeClient, XLabs.Forms.Droid, Version=2.0.5546.18615, Culture=neutral, PublicKeyToken=null", "XLabs.Forms.Controls.HybridWebViewRenderer, XLabs.Forms.Droid, Version=2.0.5546.18615, Culture=neutral, PublicKeyToken=null", this, new java.lang.Object[] { p0 });
 	}
 
 

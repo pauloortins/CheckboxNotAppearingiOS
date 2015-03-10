@@ -11,7 +11,7 @@ public class CircleImageRenderer
 		__md_methods = 
 			"n_drawChild:(Landroid/graphics/Canvas;Landroid/view/View;J)Z:GetDrawChild_Landroid_graphics_Canvas_Landroid_view_View_JHandler\n" +
 			"";
-		mono.android.Runtime.register ("XLabs.Forms.Controls.CircleImageRenderer, XLabs.Forms.Droid, Version=2.0.5540.29614, Culture=neutral, PublicKeyToken=null", CircleImageRenderer.class, __md_methods);
+		mono.android.Runtime.register ("XLabs.Forms.Controls.CircleImageRenderer, XLabs.Forms.Droid, Version=2.0.5546.18615, Culture=neutral, PublicKeyToken=null", CircleImageRenderer.class, __md_methods);
 	}
 
 
@@ -19,7 +19,7 @@ public class CircleImageRenderer
 	{
 		super (p0, p1, p2);
 		if (getClass () == CircleImageRenderer.class)
-			mono.android.TypeManager.Activate ("XLabs.Forms.Controls.CircleImageRenderer, XLabs.Forms.Droid, Version=2.0.5540.29614, Culture=neutral, PublicKeyToken=null", "Android.Content.Context, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065:Android.Util.IAttributeSet, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065:System.Int32, mscorlib, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e", this, new java.lang.Object[] { p0, p1, p2 });
+			mono.android.TypeManager.Activate ("XLabs.Forms.Controls.CircleImageRenderer, XLabs.Forms.Droid, Version=2.0.5546.18615, Culture=neutral, PublicKeyToken=null", "Android.Content.Context, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065:Android.Util.IAttributeSet, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065:System.Int32, mscorlib, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e", this, new java.lang.Object[] { p0, p1, p2 });
 	}
 
 
@@ -27,7 +27,7 @@ public class CircleImageRenderer
 	{
 		super (p0, p1);
 		if (getClass () == CircleImageRenderer.class)
-			mono.android.TypeManager.Activate ("XLabs.Forms.Controls.CircleImageRenderer, XLabs.Forms.Droid, Version=2.0.5540.29614, Culture=neutral, PublicKeyToken=null", "Android.Content.Context, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065:Android.Util.IAttributeSet, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065", this, new java.lang.Object[] { p0, p1 });
+			mono.android.TypeManager.Activate ("XLabs.Forms.Controls.CircleImageRenderer, XLabs.Forms.Droid, Version=2.0.5546.18615, Culture=neutral, PublicKeyToken=null", "Android.Content.Context, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065:Android.Util.IAttributeSet, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065", this, new java.lang.Object[] { p0, p1 });
 	}
 
 
@@ -35,7 +35,7 @@ public class CircleImageRenderer
 	{
 		super (p0);
 		if (getClass () == CircleImageRenderer.class)
-			mono.android.TypeManager.Activate ("XLabs.Forms.Controls.CircleImageRenderer, XLabs.Forms.Droid, Version=2.0.5540.29614, Culture=neutral, PublicKeyToken=null", "Android.Content.Context, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065", this, new java.lang.Object[] { p0 });
+			mono.android.TypeManager.Activate ("XLabs.Forms.Controls.CircleImageRenderer, XLabs.Forms.Droid, Version=2.0.5546.18615, Culture=neutral, PublicKeyToken=null", "Android.Content.Context, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065", this, new java.lang.Object[] { p0 });
 	}
 
 

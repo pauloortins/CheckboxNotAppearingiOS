@@ -16,7 +16,7 @@ public class CameraPreview
 			"n_surfaceCreated:(Landroid/view/SurfaceHolder;)V:GetSurfaceCreated_Landroid_view_SurfaceHolder_Handler:Android.Views.ISurfaceHolderCallbackInvoker, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null\n" +
 			"n_surfaceDestroyed:(Landroid/view/SurfaceHolder;)V:GetSurfaceDestroyed_Landroid_view_SurfaceHolder_Handler:Android.Views.ISurfaceHolderCallbackInvoker, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null\n" +
 			"";
-		mono.android.Runtime.register ("XLabs.Forms.Controls.CameraPreview, XLabs.Forms.Droid, Version=2.0.5540.29614, Culture=neutral, PublicKeyToken=null", CameraPreview.class, __md_methods);
+		mono.android.Runtime.register ("XLabs.Forms.Controls.CameraPreview, XLabs.Forms.Droid, Version=2.0.5546.18615, Culture=neutral, PublicKeyToken=null", CameraPreview.class, __md_methods);
 	}
 
 
@@ -24,7 +24,7 @@ public class CameraPreview
 	{
 		super (p0);
 		if (getClass () == CameraPreview.class)
-			mono.android.TypeManager.Activate ("XLabs.Forms.Controls.CameraPreview, XLabs.Forms.Droid, Version=2.0.5540.29614, Culture=neutral, PublicKeyToken=null", "Android.Content.Context, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065", this, new java.lang.Object[] { p0 });
+			mono.android.TypeManager.Activate ("XLabs.Forms.Controls.CameraPreview, XLabs.Forms.Droid, Version=2.0.5546.18615, Culture=neutral, PublicKeyToken=null", "Android.Content.Context, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065", this, new java.lang.Object[] { p0 });
 	}
 
 
@@ -32,7 +32,7 @@ public class CameraPreview
 	{
 		super (p0, p1);
 		if (getClass () == CameraPreview.class)
-			mono.android.TypeManager.Activate ("XLabs.Forms.Controls.CameraPreview, XLabs.Forms.Droid, Version=2.0.5540.29614, Culture=neutral, PublicKeyToken=null", "Android.Content.Context, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065:Android.Util.IAttributeSet, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065", this, new java.lang.Object[] { p0, p1 });
+			mono.android.TypeManager.Activate ("XLabs.Forms.Controls.CameraPreview, XLabs.Forms.Droid, Version=2.0.5546.18615, Culture=neutral, PublicKeyToken=null", "Android.Content.Context, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065:Android.Util.IAttributeSet, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065", this, new java.lang.Object[] { p0, p1 });
 	}
 
 
@@ -40,7 +40,7 @@ public class CameraPreview
 	{
 		super (p0, p1, p2);
 		if (getClass () == CameraPreview.class)
-			mono.android.TypeManager.Activate ("XLabs.Forms.Controls.CameraPreview, XLabs.Forms.Droid, Version=2.0.5540.29614, Culture=neutral, PublicKeyToken=null", "Android.Content.Context, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065:Android.Util.IAttributeSet, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065:System.Int32, mscorlib, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e", this, new java.lang.Object[] { p0, p1, p2 });
+			mono.android.TypeManager.Activate ("XLabs.Forms.Controls.CameraPreview, XLabs.Forms.Droid, Version=2.0.5546.18615, Culture=neutral, PublicKeyToken=null", "Android.Content.Context, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065:Android.Util.IAttributeSet, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065:System.Int32, mscorlib, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e", this, new java.lang.Object[] { p0, p1, p2 });
 	}
 
 
@@ -48,7 +48,7 @@ public class CameraPreview
 	{
 		super (p0, p1, p2, p3);
 		if (getClass () == CameraPreview.class)
-			mono.android.TypeManager.Activate ("XLabs.Forms.Controls.CameraPreview, XLabs.Forms.Droid, Version=2.0.5540.29614, Culture=neutral, PublicKeyToken=null", "Android.Content.Context, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065:Android.Util.IAttributeSet, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065:System.Int32, mscorlib, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e:System.Int32, mscorlib, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e", this, new java.lang.Object[] { p0, p1, p2, p3 });
+			mono.android.TypeManager.Activate ("XLabs.Forms.Controls.CameraPreview, XLabs.Forms.Droid, Version=2.0.5546.18615, Culture=neutral, PublicKeyToken=null", "Android.Content.Context, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065:Android.Util.IAttributeSet, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065:System.Int32, mscorlib, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e:System.Int32, mscorlib, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e", this, new java.lang.Object[] { p0, p1, p2, p3 });
 	}
 
 

@@ -13,7 +13,7 @@ public class MediaPickerActivity
 			"n_onCreate:(Landroid/os/Bundle;)V:GetOnCreate_Landroid_os_Bundle_Handler\n" +
 			"n_onActivityResult:(IILandroid/content/Intent;)V:GetOnActivityResult_IILandroid_content_Intent_Handler\n" +
 			"";
-		mono.android.Runtime.register ("XLabs.Platform.Services.Media.MediaPickerActivity, XLabs.Platform.Droid, Version=2.0.5540.29611, Culture=neutral, PublicKeyToken=null", MediaPickerActivity.class, __md_methods);
+		mono.android.Runtime.register ("XLabs.Platform.Services.Media.MediaPickerActivity, XLabs.Platform.Droid, Version=2.0.5546.18614, Culture=neutral, PublicKeyToken=null", MediaPickerActivity.class, __md_methods);
 	}
 
 
@@ -21,7 +21,7 @@ public class MediaPickerActivity
 	{
 		super ();
 		if (getClass () == MediaPickerActivity.class)
-			mono.android.TypeManager.Activate ("XLabs.Platform.Services.Media.MediaPickerActivity, XLabs.Platform.Droid, Version=2.0.5540.29611, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
+			mono.android.TypeManager.Activate ("XLabs.Platform.Services.Media.MediaPickerActivity, XLabs.Platform.Droid, Version=2.0.5546.18614, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
 	}
 
 

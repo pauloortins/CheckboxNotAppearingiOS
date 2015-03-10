@@ -1,1 +1,20 @@
-﻿<Properties StartupItem="iOS/CheckboxTesting.iOS.csproj" />
+﻿<Properties StartupItem="iOS/CheckboxTesting.iOS.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone4s.8.1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/AppDelegate.cs">
+    <Files>
+      <File FileName="CheckboxTesting/CheckboxTesting.cs" Line="7" Column="7" />
+      <File FileName="iOS/packages.config" Line="90" Column="90" />
+      <File FileName="CheckboxTesting/packages.config" Line="3" Column="3" />
+      <File FileName="Droid/packages.config" Line="12" Column="12" />
+      <File FileName="iOS/AppDelegate.cs" Line="23" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../Documents/dev/oncedev/Conttroller/ConttrollerMobileForcaVendas/ConttrollerMobile/Services/StoreService.cs" line="39" offsetX="329" offsetY="570" expression="response" liveUpdate="False" />
+    <Watch file="../../Documents/dev/oncedev/Conttroller/ConttrollerMobileForcaVendas/ConttrollerMobile/Views/Produtos/Detalhes/ProdutoCell.cs" line="90" offsetX="553" offsetY="1335" expression="produto" liveUpdate="False" />
+    <Watch file="../../Documents/dev/oncedev/Conttroller/ConttrollerMobileForcaVendas/ConttrollerMobile/Repository/DatabaseService.cs" line="585" offsetX="683" offsetY="8760" expression="produtosDb" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>

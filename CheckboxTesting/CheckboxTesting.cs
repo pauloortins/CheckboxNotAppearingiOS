@@ -10,25 +10,7 @@ namespace CheckboxTesting
 		public App ()
 		{
 			// The root page of your application
-			MainPage = new ContentPage {
-				Content = new StackLayout {
-					VerticalOptions = LayoutOptions.Center,
-					Children = {
-						new StackLayout() 
-						{
-							BackgroundColor = Color.White,
-							Children = 
-							{ 
-								new CheckBox() 
-								{
-									CheckedText = "Checked",
-									UncheckedText = "Unchecked"
-								}
-							}
-						}
-					}
-				}
-			};
+			MainPage = new NavigationPage(new FirstPage ());
 		}
 
 		protected override void OnStart ()

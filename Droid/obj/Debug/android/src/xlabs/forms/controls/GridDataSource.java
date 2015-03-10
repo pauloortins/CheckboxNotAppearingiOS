@@ -14,7 +14,7 @@ public class GridDataSource
 			"n_getItemId:(I)J:GetGetItemId_IHandler\n" +
 			"n_getView:(ILandroid/view/View;Landroid/view/ViewGroup;)Landroid/view/View;:GetGetView_ILandroid_view_View_Landroid_view_ViewGroup_Handler\n" +
 			"";
-		mono.android.Runtime.register ("XLabs.Forms.Controls.GridDataSource, XLabs.Forms.Droid, Version=2.0.5540.29614, Culture=neutral, PublicKeyToken=null", GridDataSource.class, __md_methods);
+		mono.android.Runtime.register ("XLabs.Forms.Controls.GridDataSource, XLabs.Forms.Droid, Version=2.0.5546.18615, Culture=neutral, PublicKeyToken=null", GridDataSource.class, __md_methods);
 	}
 
 
@@ -22,14 +22,14 @@ public class GridDataSource
 	{
 		super ();
 		if (getClass () == GridDataSource.class)
-			mono.android.TypeManager.Activate ("XLabs.Forms.Controls.GridDataSource, XLabs.Forms.Droid, Version=2.0.5540.29614, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
+			mono.android.TypeManager.Activate ("XLabs.Forms.Controls.GridDataSource, XLabs.Forms.Droid, Version=2.0.5546.18615, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
 	}
 
 	public GridDataSource (android.content.Context p0) throws java.lang.Throwable
 	{
 		super ();
 		if (getClass () == GridDataSource.class)
-			mono.android.TypeManager.Activate ("XLabs.Forms.Controls.GridDataSource, XLabs.Forms.Droid, Version=2.0.5540.29614, Culture=neutral, PublicKeyToken=null", "Android.Content.Context, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065", this, new java.lang.Object[] { p0 });
+			mono.android.TypeManager.Activate ("XLabs.Forms.Controls.GridDataSource, XLabs.Forms.Droid, Version=2.0.5546.18615, Culture=neutral, PublicKeyToken=null", "Android.Content.Context, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065", this, new java.lang.Object[] { p0 });
 	}
 
 

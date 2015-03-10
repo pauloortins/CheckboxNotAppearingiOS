@@ -4,6 +4,7 @@ using System.Linq;
 
 using Foundation;
 using UIKit;
+using XLabs.Forms.Controls;
 
 namespace CheckboxTesting.iOS
 {
@@ -12,6 +13,8 @@ namespace CheckboxTesting.iOS
 	{
 		public override bool FinishedLaunching (UIApplication app, NSDictionary options)
 		{
+			new CalendarViewRenderer();
+
 			global::Xamarin.Forms.Forms.Init ();
 
 			LoadApplication (new App ());

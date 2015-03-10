@@ -12,7 +12,7 @@ public class TextToSpeechService
 		__md_methods = 
 			"n_onInit:(I)V:GetOnInit_IHandler:Android.Speech.Tts.TextToSpeech/IOnInitListenerInvoker, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null\n" +
 			"";
-		mono.android.Runtime.register ("XLabs.Platform.Services.TextToSpeechService, XLabs.Platform.Droid, Version=2.0.5540.29611, Culture=neutral, PublicKeyToken=null", TextToSpeechService.class, __md_methods);
+		mono.android.Runtime.register ("XLabs.Platform.Services.TextToSpeechService, XLabs.Platform.Droid, Version=2.0.5546.18614, Culture=neutral, PublicKeyToken=null", TextToSpeechService.class, __md_methods);
 	}
 
 
@@ -20,7 +20,7 @@ public class TextToSpeechService
 	{
 		super ();
 		if (getClass () == TextToSpeechService.class)
-			mono.android.TypeManager.Activate ("XLabs.Platform.Services.TextToSpeechService, XLabs.Platform.Droid, Version=2.0.5540.29611, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
+			mono.android.TypeManager.Activate ("XLabs.Platform.Services.TextToSpeechService, XLabs.Platform.Droid, Version=2.0.5546.18614, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
 	}
 
 

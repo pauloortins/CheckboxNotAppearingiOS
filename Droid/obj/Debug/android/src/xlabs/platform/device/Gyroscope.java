@@ -13,7 +13,7 @@ public class Gyroscope
 			"n_onAccuracyChanged:(Landroid/hardware/Sensor;I)V:GetOnAccuracyChanged_Landroid_hardware_Sensor_IHandler:Android.Hardware.ISensorEventListenerInvoker, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null\n" +
 			"n_onSensorChanged:(Landroid/hardware/SensorEvent;)V:GetOnSensorChanged_Landroid_hardware_SensorEvent_Handler:Android.Hardware.ISensorEventListenerInvoker, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null\n" +
 			"";
-		mono.android.Runtime.register ("XLabs.Platform.Device.Gyroscope, XLabs.Platform.Droid, Version=2.0.5540.29611, Culture=neutral, PublicKeyToken=null", Gyroscope.class, __md_methods);
+		mono.android.Runtime.register ("XLabs.Platform.Device.Gyroscope, XLabs.Platform.Droid, Version=2.0.5546.18614, Culture=neutral, PublicKeyToken=null", Gyroscope.class, __md_methods);
 	}
 
 
@@ -21,7 +21,7 @@ public class Gyroscope
 	{
 		super ();
 		if (getClass () == Gyroscope.class)
-			mono.android.TypeManager.Activate ("XLabs.Platform.Device.Gyroscope, XLabs.Platform.Droid, Version=2.0.5540.29611, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
+			mono.android.TypeManager.Activate ("XLabs.Platform.Device.Gyroscope, XLabs.Platform.Droid, Version=2.0.5546.18614, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
 	}
 
 

@@ -11,7 +11,7 @@ public class HybridWebViewRenderer_NativeWebView_MyGestureListener
 		__md_methods = 
 			"n_onFling:(Landroid/view/MotionEvent;Landroid/view/MotionEvent;FF)Z:GetOnFling_Landroid_view_MotionEvent_Landroid_view_MotionEvent_FFHandler\n" +
 			"";
-		mono.android.Runtime.register ("XLabs.Forms.Controls.HybridWebViewRenderer/NativeWebView/MyGestureListener, XLabs.Forms.Droid, Version=2.0.5540.29614, Culture=neutral, PublicKeyToken=null", HybridWebViewRenderer_NativeWebView_MyGestureListener.class, __md_methods);
+		mono.android.Runtime.register ("XLabs.Forms.Controls.HybridWebViewRenderer/NativeWebView/MyGestureListener, XLabs.Forms.Droid, Version=2.0.5546.18615, Culture=neutral, PublicKeyToken=null", HybridWebViewRenderer_NativeWebView_MyGestureListener.class, __md_methods);
 	}
 
 
@@ -19,14 +19,14 @@ public class HybridWebViewRenderer_NativeWebView_MyGestureListener
 	{
 		super ();
 		if (getClass () == HybridWebViewRenderer_NativeWebView_MyGestureListener.class)
-			mono.android.TypeManager.Activate ("XLabs.Forms.Controls.HybridWebViewRenderer/NativeWebView/MyGestureListener, XLabs.Forms.Droid, Version=2.0.5540.29614, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
+			mono.android.TypeManager.Activate ("XLabs.Forms.Controls.HybridWebViewRenderer/NativeWebView/MyGestureListener, XLabs.Forms.Droid, Version=2.0.5546.18615, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
 	}
 
 	public HybridWebViewRenderer_NativeWebView_MyGestureListener (xlabs.forms.controls.HybridWebViewRenderer p0) throws java.lang.Throwable
 	{
 		super ();
 		if (getClass () == HybridWebViewRenderer_NativeWebView_MyGestureListener.class)
-			mono.android.TypeManager.Activate ("XLabs.Forms.Controls.HybridWebViewRenderer/NativeWebView/MyGestureListener, XLabs.Forms.Droid, Version=2.0.5540.29614, Culture=neutral, PublicKeyToken=null", "XLabs.Forms.Controls.HybridWebViewRenderer, XLabs.Forms.Droid, Version=2.0.5540.29614, Culture=neutral, PublicKeyToken=null", this, new java.lang.Object[] { p0 });
+			mono.android.TypeManager.Activate ("XLabs.Forms.Controls.HybridWebViewRenderer/NativeWebView/MyGestureListener, XLabs.Forms.Droid, Version=2.0.5546.18615, Culture=neutral, PublicKeyToken=null", "XLabs.Forms.Controls.HybridWebViewRenderer, XLabs.Forms.Droid, Version=2.0.5546.18615, Culture=neutral, PublicKeyToken=null", this, new java.lang.Object[] { p0 });
 	}
 
 

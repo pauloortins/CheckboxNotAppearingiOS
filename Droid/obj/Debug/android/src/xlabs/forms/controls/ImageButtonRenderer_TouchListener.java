@@ -12,7 +12,7 @@ public class ImageButtonRenderer_TouchListener
 		__md_methods = 
 			"n_onTouch:(Landroid/view/View;Landroid/view/MotionEvent;)Z:GetOnTouch_Landroid_view_View_Landroid_view_MotionEvent_Handler:Android.Views.View/IOnTouchListenerInvoker, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null\n" +
 			"";
-		mono.android.Runtime.register ("XLabs.Forms.Controls.ImageButtonRenderer/TouchListener, XLabs.Forms.Droid, Version=2.0.5540.29614, Culture=neutral, PublicKeyToken=null", ImageButtonRenderer_TouchListener.class, __md_methods);
+		mono.android.Runtime.register ("XLabs.Forms.Controls.ImageButtonRenderer/TouchListener, XLabs.Forms.Droid, Version=2.0.5546.18615, Culture=neutral, PublicKeyToken=null", ImageButtonRenderer_TouchListener.class, __md_methods);
 	}
 
 
@@ -20,7 +20,7 @@ public class ImageButtonRenderer_TouchListener
 	{
 		super ();
 		if (getClass () == ImageButtonRenderer_TouchListener.class)
-			mono.android.TypeManager.Activate ("XLabs.Forms.Controls.ImageButtonRenderer/TouchListener, XLabs.Forms.Droid, Version=2.0.5540.29614, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
+			mono.android.TypeManager.Activate ("XLabs.Forms.Controls.ImageButtonRenderer/TouchListener, XLabs.Forms.Droid, Version=2.0.5546.18615, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
 	}
 
 

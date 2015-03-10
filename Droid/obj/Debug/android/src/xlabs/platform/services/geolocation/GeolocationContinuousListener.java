@@ -15,7 +15,7 @@ public class GeolocationContinuousListener
 			"n_onProviderEnabled:(Ljava/lang/String;)V:GetOnProviderEnabled_Ljava_lang_String_Handler:Android.Locations.ILocationListenerInvoker, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null\n" +
 			"n_onStatusChanged:(Ljava/lang/String;ILandroid/os/Bundle;)V:GetOnStatusChanged_Ljava_lang_String_ILandroid_os_Bundle_Handler:Android.Locations.ILocationListenerInvoker, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null\n" +
 			"";
-		mono.android.Runtime.register ("XLabs.Platform.Services.Geolocation.GeolocationContinuousListener, XLabs.Platform.Droid, Version=2.0.5540.29611, Culture=neutral, PublicKeyToken=null", GeolocationContinuousListener.class, __md_methods);
+		mono.android.Runtime.register ("XLabs.Platform.Services.Geolocation.GeolocationContinuousListener, XLabs.Platform.Droid, Version=2.0.5546.18614, Culture=neutral, PublicKeyToken=null", GeolocationContinuousListener.class, __md_methods);
 	}
 
 
@@ -23,7 +23,7 @@ public class GeolocationContinuousListener
 	{
 		super ();
 		if (getClass () == GeolocationContinuousListener.class)
-			mono.android.TypeManager.Activate ("XLabs.Platform.Services.Geolocation.GeolocationContinuousListener, XLabs.Platform.Droid, Version=2.0.5540.29611, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
+			mono.android.TypeManager.Activate ("XLabs.Platform.Services.Geolocation.GeolocationContinuousListener, XLabs.Platform.Droid, Version=2.0.5546.18614, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
 	}
 
 

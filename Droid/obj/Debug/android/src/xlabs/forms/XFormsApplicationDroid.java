@@ -17,7 +17,7 @@ public class XFormsApplicationDroid
 			"n_onStop:()V:GetOnStopHandler\n" +
 			"n_onBackPressed:()V:GetOnBackPressedHandler\n" +
 			"";
-		mono.android.Runtime.register ("XLabs.Forms.XFormsApplicationDroid, XLabs.Forms.Droid, Version=2.0.5540.29614, Culture=neutral, PublicKeyToken=null", XFormsApplicationDroid.class, __md_methods);
+		mono.android.Runtime.register ("XLabs.Forms.XFormsApplicationDroid, XLabs.Forms.Droid, Version=2.0.5546.18615, Culture=neutral, PublicKeyToken=null", XFormsApplicationDroid.class, __md_methods);
 	}
 
 
@@ -25,7 +25,7 @@ public class XFormsApplicationDroid
 	{
 		super ();
 		if (getClass () == XFormsApplicationDroid.class)
-			mono.android.TypeManager.Activate ("XLabs.Forms.XFormsApplicationDroid, XLabs.Forms.Droid, Version=2.0.5540.29614, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
+			mono.android.TypeManager.Activate ("XLabs.Forms.XFormsApplicationDroid, XLabs.Forms.Droid, Version=2.0.5546.18615, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
 	}
 
 
